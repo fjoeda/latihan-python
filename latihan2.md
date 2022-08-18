@@ -94,6 +94,7 @@ total_belanjaan =  hitung_total_belanjaan(list_belanjaan)
 - Tes fungsi tersebut dengan data baru berikut
 
 - data 1
+- 
 | nama sayur | jumlah | harga satuan | 
 |-----------|--------|-------|
 |tomat|3|2000|
@@ -101,8 +102,8 @@ total_belanjaan =  hitung_total_belanjaan(list_belanjaan)
 |brokoli|2|4000|
 |kentang|10|2000|
 
-untuk total harga dihitung dengan harga satuan dikurangi harga diskon
 - data 2
+
 | nama sayur | jumlah | harga satuan | diskon (dalam persen)|
 |-----------|--------|-------|-------|
 |tomat|3|2000|10|
